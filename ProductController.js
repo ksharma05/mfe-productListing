@@ -1,6 +1,6 @@
 import { ProductModel } from "./ProductModel.js";
 import { ProductView } from "./ProductView.js";
-import { eventBus } from "../../shared/eventBus.js";
+import { eventBus } from "https://6784a8458590f7a8b7ff8cb8--courageous-tulumba-4729b7.netlify.app/eventBus.js";
 
 export class ProductController {
     constructor() {
